@@ -1,6 +1,7 @@
 /*
- 通过print函数输出多个值，
+ 通过print函数输出多个对象，
  使用 print的参数separator自定义分隔符。
+
  */
 
 let year = 1987
